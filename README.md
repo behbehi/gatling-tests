@@ -49,4 +49,18 @@ npm run check # TypeScript project only, type check but don't build or run
 npm run build # Build project but don't run
 npm run basicSimulation # Run the included basicSimulation simulation
 npm run recorder # Starts the Gatling Recorder
+npm run postApiLoad # Run load test for post api
+npm run postApiStress # Run stress test for post api
+npm run advertiseApiLoad # Run load test for advertise api
+npm run advertiseApiStress # Run stress test for advertise api
+npm run taxonomyApiLoad # Run load test for taxonomy api
+npm run taxonomyApiStress # Run stress test for taxonomy api
+npm run pageApiLoad # Run load test for page api
+npm run pageApiStress # Run stress test for page api
+npm run miniSiteApiLoad # Run load test for mini-site api
+npm run miniSiteApiStress # Run stress test for mini-site api
+npm run statusApiLoad # Run load test for status api
+npm run statusApiStress # Run stress test for status api
+npm run userPostApiLoad # Run load test for user-post api
+npm run userPostApiStress # Run stress test for user-post api
 ```

@@ -19,6 +19,20 @@
     "format-check": "prettier --check '**/*.js'",
     "build": "gatling build",
     "recorder": "gatling recorder",
-    "basicSimulation": "gatling run --simulation basicSimulation"
+    "basicSimulation": "gatling run --simulation basicSimulation",
+    "postApiLoad": "gatling run --simulation postApiLoad",
+    "postApiStress": "gatling run --simulation postApiStress",
+    "advertiseApiLoad": "gatling run --simulation advertiseApiLoad",
+    "advertiseApiStress": "gatling run --simulation advertiseApiStress",
+    "taxonomyApiLoad": "gatling run --simulation taxonomyApiLoad",
+    "taxonomyApiStress": "gatling run --simulation taxonomyApiStress",
+    "pageApiLoad": "gatling run --simulation pageApiLoad",
+    "pageApiStress": "gatling run --simulation pageApiStress",
+    "miniSiteApiLoad": "gatling run --simulation miniSiteApiLoad",
+    "miniSiteApiStress": "gatling run --simulation miniSiteApiStress",
+    "statusApiLoad": "gatling run --simulation statusApiLoad",
+    "statusApiStress": "gatling run --simulation statusApiStress",
+    "userPostApiLoad": "gatling run --simulation userPostApiLoad",
+    "userPostApiStress": "gatling run --simulation userPostApiStress"
   }
 }
