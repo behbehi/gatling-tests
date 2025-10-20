@@ -63,4 +63,12 @@ npm run statusApiLoad # Run load test for status api
 npm run statusApiStress # Run stress test for status api
 npm run userPostApiLoad # Run load test for user-post api
 npm run userPostApiStress # Run stress test for user-post api
+npm run aboutUsApiLoad # Run load test for about-us api
+npm run aboutUsApiStress # Run stress test for about-us api
+npm run aliasApiLoad # Run load test for alias api
+npm run aliasApiStress # Run stress test for alias api
+npm run menuApiLoad # Run load test for menu api
+npm run menuApiStress # Run stress test for menu api
+npm run tagApiLoad # Run load test for tag api
+npm run tagApiStress # Run stress test for tag api
 ```

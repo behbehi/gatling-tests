@@ -33,6 +33,14 @@
     "statusApiLoad": "gatling run --simulation statusApiLoad",
     "statusApiStress": "gatling run --simulation statusApiStress",
     "userPostApiLoad": "gatling run --simulation userPostApiLoad",
-    "userPostApiStress": "gatling run --simulation userPostApiStress"
+    "userPostApiStress": "gatling run --simulation userPostApiStress",
+    "aboutUsApiLoad": "gatling run --simulation aboutUsApiLoad",
+    "aboutUsApiStress": "gatling run --simulation aboutUsApiStress",
+    "aliasApiLoad": "gatling run --simulation aliasApiLoad",
+    "aliasApiStress": "gatling run --simulation aliasApiStress",
+    "menuApiLoad": "gatling run --simulation menuApiLoad",
+    "menuApiStress": "gatling run --simulation menuApiStress",
+    "tagApiLoad": "gatling run --simulation tagApiLoad",
+    "tagApiStress": "gatling run --simulation tagApiStress"
   }
 }
