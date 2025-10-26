@@ -41,6 +41,22 @@
     "menuApiLoad": "gatling run --simulation menuApiLoad",
     "menuApiStress": "gatling run --simulation menuApiStress",
     "tagApiLoad": "gatling run --simulation tagApiLoad",
-    "tagApiStress": "gatling run --simulation tagApiStress"
+    "tagApiStress": "gatling run --simulation tagApiStress",
+    "userProfileApiLoad": "gatling run --simulation userProfileApiLoad",
+    "userProfileApiStress": "gatling run --simulation userProfileApiStress",
+    "userPostsApiLoad": "gatling run --simulation userPostsApiLoad",
+    "userPostsApiStress": "gatling run --simulation userPostsApiStress",
+    "userStatusApiLoad": "gatling run --simulation userStatusApiLoad",
+    "userStatusApiStress": "gatling run --simulation userStatusApiStress",
+    "userTagApiLoad": "gatling run --simulation userTagApiLoad",
+    "userTagApiStress": "gatling run --simulation userTagApiStress",
+    "userCategoryApiLoad": "gatling run --simulation userCategoryApiLoad",
+    "userCategoryApiStress": "gatling run --simulation userCategoryApiStress",
+    "userChatApiLoad": "gatling run --simulation userChatApiLoad",
+    "userChatApiStress": "gatling run --simulation userChatApiStress",
+    "userFollowingApiLoad": "gatling run --simulation userFollowingApiLoad",
+    "userFollowingApiStress": "gatling run --simulation userFollowingApiStress",
+    "userFollowersApiLoad": "gatling run --simulation userFollowersApiLoad",
+    "userFollowersApiStress": "gatling run --simulation userFollowersApiStress"
   }
 }

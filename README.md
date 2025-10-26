@@ -71,4 +71,20 @@ npm run menuApiLoad # Run load test for menu api
 npm run menuApiStress # Run stress test for menu api
 npm run tagApiLoad # Run load test for tag api
 npm run tagApiStress # Run stress test for tag api
+npm run userProfileApiLoad # Run load test for user profile api
+npm run userProfileApiStress # Run stress test for user profile api
+npm run userPostsApiLoad # Run load test for user post api
+npm run userPostsApiStress # Run stress test for user post api
+npm run userStatusApiLoad # Run load test for user status api
+npm run userStatusApiStress # Run stress test for user status api
+npm run userTagApiLoad # Run load test for user tag api
+npm run userTagApiStress # Run stress test for user tag apis
+npm run userCategoryApiLoad # Run load test for user category api
+npm run userCategoryApiStress # Run stress test for user category api
+npm run userChatApiLoad # Run load test for user chat api
+npm run userChatApiStress # Run stress test for user chat api
+npm run userFollowingApiLoad # Run load test for user following api
+npm run userFollowingApiStress # Run stress test for user following api
+npm run userFollowersApiLoad # Run load test for user followers api
+npm run userFollowersApiStress # Run stress test for user followers api
 ```
