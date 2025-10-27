@@ -57,6 +57,12 @@
     "userFollowingApiLoad": "gatling run --simulation userFollowingApiLoad",
     "userFollowingApiStress": "gatling run --simulation userFollowingApiStress",
     "userFollowersApiLoad": "gatling run --simulation userFollowersApiLoad",
-    "userFollowersApiStress": "gatling run --simulation userFollowersApiStress"
+    "userFollowersApiStress": "gatling run --simulation userFollowersApiStress",
+    "userNotificationApiLoad": "gatling run --simulation userNotificationApiLoad",
+    "userNotificationApiStress": "gatling run --simulation userNotificationApiStress",
+    "userCityApiLoad": "gatling run --simulation userCityApiLoad",
+    "userCityApiStress": "gatling run --simulation userCityApiStress",
+    "userCountryApiLoad": "gatling run --simulation userCountryApiLoad",
+    "userCountryApiStress": "gatling run --simulation userCountryApiStress"
   }
 }

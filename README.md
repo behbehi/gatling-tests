@@ -87,4 +87,8 @@ npm run userFollowingApiLoad # Run load test for user following api
 npm run userFollowingApiStress # Run stress test for user following api
 npm run userFollowersApiLoad # Run load test for user followers api
 npm run userFollowersApiStress # Run stress test for user followers api
+npm run userNotificationApiLoad # Run load test for user notification api
+npm run userNotificationApiStress # Run stress test for user notification api
+npm run userCityApiLoad # Run load test for user city api
+npm run userCityApiStress # Run stress test for user city api
 ```
