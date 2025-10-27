@@ -91,4 +91,8 @@ npm run userNotificationApiLoad # Run load test for user notification api
 npm run userNotificationApiStress # Run stress test for user notification api
 npm run userCityApiLoad # Run load test for user city api
 npm run userCityApiStress # Run stress test for user city api
+npm run userTeamApiLoad # Run load test for user team api
+npm run userTeamApiStress # Run stress test for user team api
+npm run userTournamentApiLoad # Run load test for user tournament api
+npm run userTournamentApiStress # Run stress test for user tournament api
 ```

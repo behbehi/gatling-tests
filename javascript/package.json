@@ -63,6 +63,10 @@
     "userCityApiLoad": "gatling run --simulation userCityApiLoad",
     "userCityApiStress": "gatling run --simulation userCityApiStress",
     "userCountryApiLoad": "gatling run --simulation userCountryApiLoad",
-    "userCountryApiStress": "gatling run --simulation userCountryApiStress"
+    "userCountryApiStress": "gatling run --simulation userCountryApiStress",
+    "userTeamApiLoad": "gatling run --simulation userTeamApiLoad",
+    "userTeamApiStress": "gatling run --simulation userTeamApiStress",
+    "userTournamentApiLoad": "gatling run --simulation userTournamentApiLoad",
+    "userTournamentApiStress": "gatling run --simulation userTournamentApiStress"
   }
 }
