@@ -67,6 +67,16 @@
     "userTeamApiLoad": "gatling run --simulation userTeamApiLoad",
     "userTeamApiStress": "gatling run --simulation userTeamApiStress",
     "userTournamentApiLoad": "gatling run --simulation userTournamentApiLoad",
-    "userTournamentApiStress": "gatling run --simulation userTournamentApiStress"
+    "userTournamentApiStress": "gatling run --simulation userTournamentApiStress",
+    "liveTeamApiLoad": "gatling run --simulation liveTeamApiLoad",
+    "liveTeamApiStress": "gatling run --simulation liveTeamApiStress",
+    "liveTournamentApiLoad": "gatling run --simulation liveTournamentApiLoad",
+    "liveTournamentApiStress": "gatling run --simulation liveTournamentApiStress",
+    "liveTransferApiLoad": "gatling run --simulation liveTransferApiLoad",
+    "liveTransferApiStress": "gatling run --simulation liveTransferApiStress",
+    "liveFixtureApiLoad": "gatling run --simulation liveFixtureApiLoad",
+    "liveFixtureApiStress": "gatling run --simulation liveFixtureApiStress",
+    "liveStatisticsApiLoad": "gatling run --simulation liveStatisticsApiLoad",
+    "liveStatisticsApiStress": "gatling run --simulation liveStatisticsApiStress"
   }
 }

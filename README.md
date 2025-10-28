@@ -95,4 +95,14 @@ npm run userTeamApiLoad # Run load test for user team api
 npm run userTeamApiStress # Run stress test for user team api
 npm run userTournamentApiLoad # Run load test for user tournament api
 npm run userTournamentApiStress # Run stress test for user tournament api
+npm run liveTeamApiLoad # Run load test for live team api
+npm run liveTeamApiStress # Run stress test for live team api
+npm run liveTournamentApiLoad # Run load test for live tournament api
+npm run liveTournamentApiStress # Run stress test for live tournament api
+npm run liveTransferApiLoad # Run load test for live transfer api
+npm run liveTransferApiStress # Run stress test for live transfer api
+npm run liveFixtureApiLoad # Run load test for live fixture api
+npm run liveFixtureApiStress # Run stress test for live fixture api
+npm run liveStatisticsApiLoad # Run load test for live player-statistic api
+npm run liveStatisticsApiStress # Run stress test for live player-statistic api
 ```
